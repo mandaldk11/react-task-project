@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.optionDiv{
+    height: 4rem;
+    width: 58rem;
+    background-color: rgb(193, 207, 207);   
+}
+
+img{
+    height: 20px;
+    margin-left: 10rem;
+}
+img:hover{
+   cursor: pointer;
+}
+
+/* Responsiveness of options */
+
+@media only screen and (max-width: 1024px) {
+    .optionDiv{
+      margin-left: 80px;
+    }
+    
+}
+

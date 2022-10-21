@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div {
+    height: 3rem;
+}
+
+.questionField {
+    background-color: rgb(195, 208, 208);
+    border-bottom: 1px solid black;
+    margin-top: 2rem;
+    margin-left: 3rem;
+    width: 60rem;
+
+}
+
+.answerField {
+    background-color: rgb(195, 208, 208);
+    border-bottom: 1px solid black;
+    margin-top: 2rem;
+    margin-left: 3rem;
+    width: 60rem;
+}
+
+.spans {
+    padding: 20px 20px;
+    font-size: 15px;
+}
+
+.dk22{
+margin-left: 50rem;
+margin-top:5px ;
+}
